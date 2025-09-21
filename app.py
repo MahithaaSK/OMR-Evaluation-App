@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-import cv2
+# import cv2
 from datetime import datetime
 from src import preprocess, bubble_detect, classifier, ocr, scorer
 import pandas as pd
